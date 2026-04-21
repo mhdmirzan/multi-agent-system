@@ -11,7 +11,7 @@
 </p>
 
 ![Screenshot](agent-orchestra.png)
-![Live DEMO](https://agentorchestra.streamlit.app/)
+Live Demo: [https://agentorchestra.streamlit.app/](https://agentorchestra.streamlit.app/)
 
 ## 🚀 Overview
 
