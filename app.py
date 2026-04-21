@@ -56,8 +56,11 @@ html, body, [class*="css"] {
     color: #0D0D0D;
     margin: 0 0 1rem;
 }
-.hero h1 span {
+.hero h1 span.text-green {
     color: #10A37F;
+}
+.hero h1 span.text-navy {
+    color: #2D3748;
 }
 .hero-sub {
     font-size: 1.05rem;
@@ -312,7 +315,7 @@ for key in ("results", "running", "done"):
 st.markdown("""
 <div class="hero">
     <div class="hero-eyebrow">Multi-Agent AI System</div>
-    <h1>Agent<span>Orchestra</span></h1>
+    <h1><span class="text-navy">Agent</span><span class="text-green">Orchestra</span></h1>
     <p class="hero-sub">
         Four specialized AI agents collaborate — searching, scraping, writing,
         and critiquing — to deliver a polished research report on any topic.
