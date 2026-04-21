@@ -10,6 +10,9 @@
   <img src="https://img.shields.io/badge/OpenAI-GPT_Powered-white.svg" alt="OpenAI">
 </p>
 
+![Screenshot](agent-orchestra.png)
+![Live DEMO](https://agentorchestra.streamlit.app/)
+
 ## 🚀 Overview
 
 **Agent Orchestra** is a powerful multi-agent AI system built with [Streamlit](https://streamlit.io/) and [LangChain](https://python.langchain.com/). It leverages four specialized AI agents acting in concert to autonomously search, scrape, synthesize, and review information. The result is a polished, highly detailed research report on any given topic, delivered natively alongside interactive AI critique.
