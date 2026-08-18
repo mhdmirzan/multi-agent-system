@@ -95,4 +95,8 @@ streamlit run app.py
 ## 🎬 Demo
 Live Demo: [https://agentorchestra.streamlit.app/](https://agentorchestra.streamlit.app/)
 
-![App Screenshot](./agent-orchestra.png)
+---
+
+<p align="center">
+  <b>⭐ Built by Mohammed Mirzan — Star this repository if you found it helpful!</b>
+</p>
